@@ -1,6 +1,5 @@
 ## Hi there, I'm Nobita 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&pause=1000&width=435&lines=I+am+a+Web+Developer%2C;an+UI%2FUX+designer%2C;a+CS+student+exploring+stuff%2C;and+an+Enthusiast.)](https://git.io/typing-svg)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&pause=1000&width=435&lines=I+am+a+Web+Developer%2C;an+UI%2FUX+designer%2C;a+CS+student+exploring+stuff%2C;and+an+Enthusiast." alt="Typing SVG" /></a>
 
 ## ➡️ About Me
