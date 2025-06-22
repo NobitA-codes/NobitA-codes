@@ -15,7 +15,8 @@
 - 💻 **Languages:** HTML | CSS | JavaScript | Php | MySQL | C++
 - ⚙️ **Tools:** Git | GitHub | VS Code | Figma
 - 🧰 **Frameworks:** Bootstrap | next.js | Tailwind CSS
-  <br>
+<br>
+
 
 ## 📌 What I’m working on
 
