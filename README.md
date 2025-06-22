@@ -24,19 +24,19 @@
 
 ## 📊 My Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=nobita-codes&theme=dark&hide_border=false) &nbsp &nbsp
+![](https://nirzak-streak-stats.vercel.app/?user=nobita-codes&theme=dark&hide_border=false) &nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nobita-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 📫 Contact Me
 
 - Gmail - nobitahere28@gmail.com
-- LinkedIN-
+- LinkedIN -
 
 Always open to collaborations, discussions, and exciting opportunities! 🚀
 
 
-### 🚀Lets Build together 
+## 🚀Lets Build together 
 *“Code is like humor. When you have to explain it, it’s bad.”*
 *–Cory House*
 
