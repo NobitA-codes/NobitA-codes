@@ -31,7 +31,7 @@
 
 ## 📊 My Statistics
 
-<div align="center">
+<div align="center" display="flex" justify-content="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=nobita-codes&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
