@@ -1,4 +1,4 @@
-## Hi there, I'm Nobita 👋
+## Hi there, I'm Riddhi 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&pause=1000&width=435&lines=I+am+a+Full+Stack+Web+Developer%2C;an+UI%2FUX+designer%2C;a+CS+student+exploring+stuff%2C;and+an+Enthusiast+with+multiple+hobbies." alt="Typing SVG" /></a> <br>
 
